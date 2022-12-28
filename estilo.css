@@ -17,6 +17,14 @@ body {
     padding: 10px;
 }
 
+#rodape {
+    text-align: center;
+}
+
+.img-campanhas {
+    border: 10px #c3c3ae solid;
+}
+
 .centralizar {
     text-align: center;
 }
@@ -26,4 +34,9 @@ a {
     text-decoration: none;
     font-weight: bold;
     padding: 10px;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
 }
